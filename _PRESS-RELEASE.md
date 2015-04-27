@@ -18,27 +18,54 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Calorie Counter
 
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Market: helps weight and fitness-minded people keep track of how many calories they've 
+  			consumed in a day
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Calorie Counter makes it easy to keep track of how many calories you're putting into
+  	your body each day. Whether you're looking to lose weight, maintain your current weight,
+  	or bulk up, calorie counter makes it easy for you to accurately keep track of how many
+  	calories you consume.
+
 
 ## Problem ##
   > Describe the problem your product solves.
+  > It's very difficult to keep track of how many calories one consumes in a day
+
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
+  > Calorie Counter solves this problem by looking up the calories in the food you've consumed,
+  	and tallying/saving this information for you to access and view at any time
+
 
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+  > "Calorie Counter makes it fun and easy to keep track of caloric intake. There is no
+  	math or guess work involved, just enter what you've eaten into our app and Calorie
+  	Counter does the work for you"
+
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
+  > "Getting started is as easy as creating an account, and typing in what you've eaten
+  	into our search bar, and saving this info to your daily log. It's that easy!"
 
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "Calorie Counter helped me lose 20lbs by keeping track of my daily caloric intake for me. All 
+  	I had to do was type in the foods I ate after each meal, and Calorie Counter did the work for me. Given that losing weight is simply a matter of burning more calories than you consume, if 
+  	you're looking to lose weight, it is absolutely essential to know how many calories you're
+  	consuming each day. Calorie Counter fianlly makes this possible in an unvelievably easy way."
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
+  > To learn more about Calorie Counter and give it a try, to go caloriecounter.com and sign up
+  	for an account.
+
+
