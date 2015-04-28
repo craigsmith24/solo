@@ -8,6 +8,7 @@ body {
   width: 450px;
   margin-top: 200px;
   margin-left: 300px;
+  border-radius: 10px;
   background: gray;
 }
 
@@ -19,6 +20,8 @@ body {
 }
 
 #containerHeader {
+  padding: 20px;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
