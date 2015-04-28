@@ -1,3 +1,8 @@
+
+// var app = {
+//   server:,
+
+
 var totalCalories = 0;
 
 $(document).ready(function(){
@@ -9,6 +14,22 @@ $(document).ready(function(){
     $("#total").html('Total Calories');
     $("#total").append("<br>" + totalCalories);
   });
+
+  // $(".entry").on("click", function(){
+  //   $("#inputBox").slideDown();
+  //   var text = $("#inputBox").text();
+  //   console.log(text);
+  // });
+
+  // $("#inputBox").keypress(function(e){
+  //   if (e.which === 13){
+  //     var feedEntry = e.slice(0,e.length);
+  //   alert(e);
+  // }
+  // });
+  //   var feedEntry = document.getElementById("inputBox");
+  //   alert(feedEntry);
+  // });
 })
 
 

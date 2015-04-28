@@ -42,3 +42,7 @@ body {
   text-align: center;
   font-weight: bold;
 }
+
+#inputBox {
+  display: none;
+}
