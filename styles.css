@@ -6,16 +6,18 @@ body {
 .container {
   height: 400px;
   width: 400px;
-  margin-top: 200px;
-  margin-left: 300px;
+  margin-top: 125px;
+  margin-left: 375px;
   border-radius: 10px;
   background: white;
   opacity: 0.8;
+  font-family: sans-serif;
 }
 
 .entry{
   height: 40px;
   width: 200px;
+  border: solid  #00abe7;
   border-radius: 20px;
   margin-left: 100px;
   text-align: center;
@@ -23,20 +25,20 @@ body {
 
 #containerHeader {
   color: #00abe7;
-  padding: 20px;
+  padding: 20px 0px 0px;
   text-align: center;
   font-family: sans-serif; /*Arial, Helvetica, sans-serif;*/
 }
 
-.listHeaders {
-  margin-top :25px;
+#table {
+  width: 90%;
+  text-align: left;
+  margin: 40px 0px 0px 35px;
+  font-family: sans-serif;
 }
 
-#foodName {
-  margin: 0px 80px 0px 20px;
-
-}
-
-#calories {
-
+#total {
+  margin-top: 30px;
+  text-align: center;
+  font-weight: bold;
 }

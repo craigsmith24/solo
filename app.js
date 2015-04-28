@@ -3,12 +3,11 @@ var totalCalories = 0;
 $(document).ready(function(){
   $(".entry").on("click", function(){
     var foodEntry = prompt('what have you eaten today?');
-    $("#foodName").append(foodEntry);
     var calories = parseInt(prompt('how many calories were in your ' + foodEntry + '?'));
-    $("#foodCalories").append(calories);
+    $("#table").append("<tr><td>"+foodEntry+"</td><td>"+calories+"</td></tr>");
     totalCalories+=calories;
     $("#total").html('Total Calories');
-    $("#total").append(totalCalories);
+    $("#total").append("<br>" + totalCalories);
   });
 })
 
