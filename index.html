@@ -2,20 +2,24 @@
 <html>
 	<head>
     <title>Calorie Counter</title>
+    <link rel="stylesheet" href="styles.css">
     <script src="bower_components/jquery/jquery.min.js"></script>
     <script src="bower_components/underscore/underscore-min.js"></script>
     <script src= "app.js"></script>
+    <script src="FEMALE-RUNNING.jpg"></script>
   </head>
   <body>
-    <div>
+    <div class="container">
       <div>
-        <h1>Calorie Counter!</h1>
-        <button class="start">get started</button>
+        <h1 id="containerHeader">Calorie Counter</h1>
+        <button class="entry">new entry</button>
       </div>
-      <div id="list">
-        
-
+      <div>
+        <span id="foodName"></span>
+        <span id="foodCalories"></span>
       </div>
+      <input></input>
+      <div id="total"></div>
     </div>
   </body>
 </html>

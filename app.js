@@ -1,16 +1,27 @@
+var totalCalories = 0;
+
 $(document).ready(function(){
-  $(".start").on("click", function(){
+  $(".entry").on("click", function(){
     var foodEntry = prompt('what have you eaten today?');
+    $("#foodName").html('Food Eaten');
+    $("#foodName").append(foodEntry);
+    var calories = parseInt(prompt('how many calories were in your ' + foodEntry + '?'));
+    $("#foodCalories").html('Calories');
+    $("#foodCalories").append(calories);
+    totalCalories+=calories;
+    $("#total").html('Total Calories');
+    $("#total").append(totalCalories);
   });
 })
 
-$(".list").append
+
 
   // $.ajax({
-  //   url:
+  //   url: 'https:api.parse.com/1/whatev/whatev',
   //   type: 'GET',
-  //   data: JSON.stringify(message),
-  //   contentType: 'application/json',
-  //   success: function(data){
-
+  //   data: 'something'
+  //})
+  //.done(function(response){
+    //done(response);
+  //})   
     
